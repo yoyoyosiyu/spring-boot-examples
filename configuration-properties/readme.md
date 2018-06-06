@@ -1,0 +1,5 @@
+演示该如何使用@ConfigurationProperties来将自己定义的属性值添加到应用中来
+
+要使用@ConfigurationProperities, 那么类除了定义同名的变量之外，要定义对应的Getter/Setter方法。如果不希望不厌其烦的做这种重复性的工作的话，可以使用lombok。
+
+使用lombok，除了必须的JAR包之外，不要忘记把编译器的允许注解处理的选项打开。

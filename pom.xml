@@ -10,6 +10,11 @@
 
     <modules>
         <module>deploy-tomcat</module>
+        <module>conditional</module>
+        <module>configuration-properties</module>
+        <module>security1</module>
+        <module>spring-session</module>
+        <module>spring-session-rest</module>
     </modules>
 
 

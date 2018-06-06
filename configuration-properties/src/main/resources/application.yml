@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+my:
+  name: world
+  greeting: hello,
+  version: 1.0.0.1

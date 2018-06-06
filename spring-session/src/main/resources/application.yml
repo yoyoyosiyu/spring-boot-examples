@@ -1,0 +1,10 @@
+server:
+  port: 1000
+
+spring:
+  redis:
+    host: 112.74.73.128
+    port: 6379
+    password: hellomatrix
+    database: 0
+
